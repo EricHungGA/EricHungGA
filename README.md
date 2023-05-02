@@ -4,8 +4,8 @@
 <ul align="center">
     <li>🔭 I just finished working on <a href="https://github.com/EricHungGA/LofiHideout">Lofi Hideout</a></li>
     <li>🌱 I’m currently refining my mastery in <strong>React</strong></li>
-    <li>👨‍💻 All of my projects are available at <a href="available soon.">available soon</a>.</li>
-    <li>💬 Ask me about <strong>react, tailwind, and design.</strong></li>
+    <li>👨‍💻 All of my projects are available at <a href="available soon.">available soon</a></li>
+    <li>💬 Ask me about <strong>react, tailwind, and design</strong></li>
     <li>📫 How to reach me <a href="mailto:erichungdev@gmail.com">erichungdev@gmail.com</a></li>
     <li>📄 Know about my experiences <a href="https://docs.google.com/document/d/1hi20Xv8mWKkxEEYRgGNfdfpY8dn9AB0Tha56XhfpDgQ/edit?usp=sharing">here</a></li>
     <li>Reach out if <strong>you want to have a chat or for work opportunities</strong></li>
